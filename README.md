@@ -1,45 +1,55 @@
-### Hi there 👋
-
-<div>
-<h1>Hello World!</h1>
-
-<h3>My favorite things</h3>
-<div>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoung%20Github!&fontSize=80" /> 
 </div>
 
-<h3>I’m currently learning...</h3>
-<div>
-<img src="https://img.shields.io/badge/typescript-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/next.js-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<div align=center>
+  <h1>console.log("jiyeong-seo");</h1> 
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨My favorite things✨</p>
 </div>
-
-<h3>interested in..</h3>
-<div>
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+<div align="center">
+	<img src="https://img.shields.io/badge/React-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
 </div>
+<br>
+<div align=center>
+	<p>🔍I’m currently learning...🔍</p>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-6DB33F?style=flat&logo=Spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next.js-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🔥 SNS & Portfolio 🔥</p>
+</div>
+<div align=center>
+	<a href="mailto:jen.jyseo@gmail.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<a href="https://gentle-snowboard-1c6.notion.site/https://www.notion.so/developer-dreamtree-ji-young/72d2677360d8445f9d7721947c1828ef?v=7ae219e7db9145ef9d11cc023ed9cf22">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<br>
+</div>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
 
-<hr/>
+![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
 
-<h3>Tools</h3>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<hr/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong-seo
-&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=jiyeong-seo
-&show_icons=true">
-
-
+<br>
 </div>
