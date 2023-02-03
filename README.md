@@ -3,6 +3,7 @@
 </div>
 <div align=center>
   <h1>console.log("jiyeong-seo");</h1> 
+	<br>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨My favorite things✨</p>
 </div>
@@ -43,6 +44,8 @@
 	</a>
 	<br>
 </div>
+
+<br>
 <br>
 <div align=center>
 	<br>
