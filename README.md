@@ -3,7 +3,7 @@
 </div>
 <div align=center>
   <h1>console.log("jiyeong-seo");</h1> 
-	<br>
+	
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨My favorite things✨</p>
 </div>
@@ -46,7 +46,7 @@
 </div>
 
 <br>
-<br>
+
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong-seo&layout=compact">
@@ -54,5 +54,5 @@
 
 <!-- ![Jiyoung's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=jiyeong-seo) -->
 <br>
-<br>
+
 </div>
