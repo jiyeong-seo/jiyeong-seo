@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoung%20Github!&fontSize=80" /> 
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jiyoung%20Github!&fontSize=80&fontColor=353535" /> 
 </div>
 <div align=center>
   <h1>console.log("jiyeong-seo");</h1> 
@@ -43,14 +43,11 @@
 	</a>
 	<br>
 </div>
-
 <br>
-
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong-seo&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=jiyeong-seo&show_icons=true">
-
 <!-- ![Jiyoung's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=jiyeong-seo) -->
 <br>
 <br>
