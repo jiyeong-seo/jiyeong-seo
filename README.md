@@ -38,8 +38,8 @@
 	<a href="mailto:jen.jyseo@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/https://www.notion.so/developer-dreamtree-ji-young/72d2677360d8445f9d7721947c1828ef?v=7ae219e7db9145ef9d11cc023ed9cf22">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<a href="https://www.notion.so/developer-dreamtree-ji-young/72d2677360d8445f9d7721947c1828ef?v=7ae219e7db9145ef9d11cc023ed9cf22?v=7ae219e7db9145ef9d11cc023ed9cf22">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
 </div>
