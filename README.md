@@ -36,6 +36,10 @@
 
 <hr/>
 
-!Anurag's GitHub stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeong-seo
+&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jiyeong-seo
+&show_icons=true">
+
 
 </div>
